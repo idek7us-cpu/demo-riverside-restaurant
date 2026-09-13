@@ -1,0 +1,7 @@
+# ครัวริมน้ำ (เว็บตัวอย่าง) — หมายเหตุ: บน GitHub Pages แบบ project site (idek7us-cpu.github.io/demo-riverside-restaurant/)
+# crawler จะอ่าน robots.txt เฉพาะที่ root ของโฮสต์ ไฟล์นี้จึงมีผลจริงเมื่อย้ายไปโดเมนของร้านเอง
+User-agent: *
+Allow: /
+Disallow: /demo-riverside-restaurant/404.html
+
+Sitemap: https://idek7us-cpu.github.io/demo-riverside-restaurant/sitemap.xml
